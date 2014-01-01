@@ -1,13 +1,15 @@
 # naive-http-kit
 
-A Leiningen template for FIXME.
+A Leiningen template for initial [http-kit](http://http-kit.org/) and [clojurescript](https://github.com/clojure/clojurescript) application.
 
 ## Usage
 
-FIXME
+```
+lein new naive-http-kit <project-name>
+```
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2014, Alexander Dinu
 
 Distributed under the Eclipse Public License, the same as Clojure.
